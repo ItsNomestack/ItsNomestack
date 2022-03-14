@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ItsNomestack
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML, Lua, C#
+- 📫 Reach me in nomestack@gmail.com
